@@ -1,4 +1,4 @@
-# Double_Pendulum_Python
+# Double Pendulum Python
 
 Simulating double pendulum in python using Euler-Lagrange method
 
